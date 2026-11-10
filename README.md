@@ -33,4 +33,4 @@ Author
 Ro_Rav
 
 License
-MIT License
+All Rights Reserved
